@@ -1,0 +1,30 @@
+# system info RFS_WiFi on 2022.04.04.08:40:43
+system_info:
+name,value
+DEVICE,EP4CE115F29C7
+DEVICE_FAMILY,Cyclone IV E
+GENERATION_ID,1649086838
+#
+#
+# Files generated for RFS_WiFi on 2022.04.04.08:40:43
+files:
+filepath,kind,attributes,module,is_top
+simulation/RFS_WiFi.v,VERILOG,,RFS_WiFi,true
+#
+# Map from instance-path to kind of module
+instances:
+instancePath,module
+RFS_WiFi.SEG7_IF_0,RFS_WiFi_SEG7_IF_0
+RFS_WiFi.jtag_uart,RFS_WiFi_jtag_uart
+RFS_WiFi.nios2_gen2_0,RFS_WiFi_nios2_gen2_0
+RFS_WiFi.onchip_memory2,RFS_WiFi_onchip_memory2
+RFS_WiFi.pio_key,RFS_WiFi_pio_key
+RFS_WiFi.pio_led,RFS_WiFi_pio_led
+RFS_WiFi.pio_wifi_reset,RFS_WiFi_pio_wifi_reset
+RFS_WiFi.sysid_qsys,RFS_WiFi_sysid_qsys
+RFS_WiFi.timer,RFS_WiFi_timer
+RFS_WiFi.wifi_uart0,RFS_WiFi_wifi_uart0
+RFS_WiFi.mm_interconnect_0,RFS_WiFi_mm_interconnect_0
+RFS_WiFi.irq_mapper,RFS_WiFi_irq_mapper
+RFS_WiFi.rst_controller,altera_reset_controller
+RFS_WiFi.rst_controller_001,altera_reset_controller

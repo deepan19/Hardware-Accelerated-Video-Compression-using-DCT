@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simPackage>
+ <file path="simulation/RFS_WiFi.v" type="VERILOG" />
+ <topLevel name="RFS_WiFi" />
+ <deviceFamily name="cycloneive" />
+ <modelMap
+   controllerPath="RFS_WiFi.onchip_memory2"
+   modelPath="RFS_WiFi.onchip_memory2" />
+</simPackage>
