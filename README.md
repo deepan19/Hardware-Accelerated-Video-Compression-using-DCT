@@ -18,7 +18,7 @@ Individual Contribution to my CPEN 391 final project. I developed the video fram
 # DCT algorithm implemented in Hardware
 [![Screenshot-2022-05-05-105554.png](https://i.postimg.cc/W406CFc1/Screenshot-2022-05-05-105554.png)](https://postimg.cc/QBxTWMM2)
 
-# DCT hardware accleerator Data flow diagram
+# DCT hardware accelerator Data flow diagram
 [![Screenshot-2022-05-05-105606.png](https://i.postimg.cc/ZRcPYGRk/Screenshot-2022-05-05-105606.png)](https://postimg.cc/VrJ0DHn4)
 
 # COmbinational logic for the 1D 8x8 DCT in hardware
