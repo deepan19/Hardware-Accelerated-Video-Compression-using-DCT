@@ -21,7 +21,7 @@ Individual Contribution to my CPEN 391 final project. I developed the video fram
 # DCT hardware accelerator Data flow diagram
 [![Screenshot-2022-05-05-105606.png](https://i.postimg.cc/ZRcPYGRk/Screenshot-2022-05-05-105606.png)](https://postimg.cc/VrJ0DHn4)
 
-# COmbinational logic for the 1D 8x8 DCT in hardware
+# Combinational logic for the 1D 8x8 DCT in hardware
 [![Screenshot-2022-05-05-105619.png](https://i.postimg.cc/ryfGB23x/Screenshot-2022-05-05-105619.png)](https://postimg.cc/c68832sL)
 
 
