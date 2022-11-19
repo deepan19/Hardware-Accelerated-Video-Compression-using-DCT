@@ -1,7 +1,7 @@
 # Hardware-Accelerated-Video-Compression-using-DCT
 Individual Contribution to my CPEN 391 final project. I developed the video frame capture system for the D8M, created Avalon slaves for hardware-software interfacing and the DCT hardware accelerator
 
-[![Screenshot-2022-05-05-105416.png](https://i.postimg.cc/VvX8bWxc/Screenshot-2022-05-05-105416.png)](https://postimg.cc/QKNP21N6)
+[![Screenshot-2022-05-05-105416.png](https://i.postimg.cc/0jq2Qzjn/Screenshot-2022-05-05-105416.png)](https://postimg.cc/Q90rYxpK)
 
 # Frame capture on the D8M system diagram:
 [![Screenshot-2022-05-05-105446.png](https://i.postimg.cc/vHdMwCn8/Screenshot-2022-05-05-105446.png)](https://postimg.cc/rzg7Sng7)
